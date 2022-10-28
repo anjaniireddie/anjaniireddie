@@ -1,4 +1,4 @@
-public class Demo 
+public class owner
 {
    static boolean val1;
    static double val2;
